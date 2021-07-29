@@ -1,4 +1,4 @@
-### Hi guys my name is [codigo_n3gro](https://linkedin.com/athsecacademy) I am a cyber security specialist. I currently working as a redteam at ATHSec, welcome to my profile
+## &nbsp; Hi guys my name is [codigo_n3gro](https://linkedin.com/athsecacademy) I am a cyber security specialist and Security Research. I currently working as a redteam at ATHSec;
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/athsec)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/athsecacademy/)
@@ -12,7 +12,7 @@
 
 
 ##
-<h3><b><samp>Skills and Languages</samp></b></h3>
+<h3><b><samp>My Skills and Languages</samp></b></h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
