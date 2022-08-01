@@ -21,11 +21,8 @@ If you want you can visit us at [ATHSec](https://athsec.org/)
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
-## 👨🏻‍💻 NETWORKING
+## 👨🏻‍💻 Network
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/athsec)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SwagneyCod3)
