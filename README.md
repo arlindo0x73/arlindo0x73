@@ -1,5 +1,20 @@
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 
+# 🖖 Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=swagneycod3&style=flat-square&color=blueviolet">
+
+I'm a Information Security Manager!
+
+I am 24 years old, I live and work in Russia Crimea Evpatoria. 
+I've been doing IT since I was 16, I've been creating websites for 3 years, now I'm actively studying game development and game design. 
+
+I also study Python and write bots for Telegram
+
+If you want you can visit my [portfolio](https://b4dcat404.github.io/)
+
+## 👨🏻‍💻 About me
+
+<br>
+
 ## &nbsp; Hi guys my name is [codigo_n3gro](https://linkedin.com/athsecacademy); 
 ### I am a cyber security specialist and Security Research. I currently working as a redteam at ATHSec;
 
