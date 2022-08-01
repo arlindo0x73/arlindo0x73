@@ -37,10 +37,6 @@ If you want you can visit my [portfolio](https://b4dcat404.github.io/)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SwagneyCod3)
 
 
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=SwagneyCod3&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwagneyCod3&langs_count=3&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SwagneyCod3&repo=hack-the-flag&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SwagneyCod3&repo=vuln-web&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## :wrench: Technologies
 
