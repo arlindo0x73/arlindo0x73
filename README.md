@@ -1,4 +1,4 @@
-<img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
+<img src="https://b4dcat404.github.io/images/intro.gif" width="100%"/>
 
 # 🖖 Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=swagneycod3&style=flat-square&color=blueviolet">
 
