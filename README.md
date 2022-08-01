@@ -15,6 +15,20 @@ If you want you can visit my [portfolio](https://b4dcat404.github.io/)
 
 <br>
 
+<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
+
+- 🌎 I'm from Mozambique
+- 👨🏻‍💻 Love programming, Design, Hacking, InfoSec
+- 🧠 I like to learn something new
+- 💭 I dream of developing the IT sector in my region
+- 📧 Reach me via arl
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## &nbsp; Hi guys my name is [codigo_n3gro](https://linkedin.com/athsecacademy); 
 ### I am a cyber security specialist and Security Research. I currently working as a redteam at ATHSec;
 
