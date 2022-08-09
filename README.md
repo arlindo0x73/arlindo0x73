@@ -16,8 +16,8 @@ If you want you can visit us at [ATHSec](https://athsec.org/)
 - 🌎 I'm from Mozambique
 - 👨🏻‍💻 Love programming, Design, Hacking, InfoSec
 - 🧠 I like to learn something new
-- 💭 I dream of developing the IT sector in my region
-- 📧 Reach me via arl
+- 💭 I dream of going to venus
+- 📧 Reach me via [Linkedin](https://linkedin.com/in/athsecacademy)
 
 <br>
 <br>
