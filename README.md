@@ -1,9 +1,7 @@
 <img src="https://b4dcat404.github.io/images/intro.gif" width="100%"/>
 
 # 🖖 Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=swagneycod3&style=flat-square&color=blueviolet">
-
-I'm a Information Security Manager!
-
+Arlindo Cossa Júnior is a professional with international experience in Cybersecurity consulting, speaker/instructor/mentor on Information Security and CEO/Manager of Cybersecurity at ATHSec. // Passionate about astrophysics and Ufology.
 
 If you want you can visit us at [ATHSec](https://athsec.org/)
 
