@@ -1,7 +1,12 @@
 <img src="hack2.gif" width="100%"/>
 
 # 🖖 Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=swagneycod3&style=flat-square&color=blueviolet">
-Arlindo Cossa Júnior is a professional with international experience in Cybersecurity and Information Security consulting, with 6 years of extensive experience in people management and global and complex projects, including Multi-Cloud Security, DevSecOps, IT Security Service Management, Designing and Managing Security Operations Center and Incident Response Teams as part of Managed Security Services provided by ATHSec, Technology Assessment and Consulting Services, IT Audit and IT Risk Management, Security Governance, Audit Consulting and Enterprise Security Architecture Risk, Design, and Implementation;
+Arlindo Cossa Junior is a young Mozambican Information Security Leader. He has made significant contributions to the promotion and development of cybersecurity in Mozambique through his work as an international consultant, leader and strategist, and founder of one of the largest cybersecurity companies in Mozambique. 
+
+He has also trained thousands of students in various areas of Cybersecurity in EMEA & LATAM. Additionally, he has collaborated with several Mozambican television stations to raise awareness among the public about cybersecurity. 
+
+He having its Projects Recognized by the largest Mozambican and International companies and its experience includes but is not limited to: 
+Multi-Cloud Security, DevSecOps, Management of IT Security Services, Designing and Managing Security Operations Centers and Incident Response Teams as part of Managed Security Services provided by ATHSec, Technology Assessment and Consulting Services, IT Audit and IT Risk Management, Security Governance, Audit and Risk Consulting, Design and Implementation of Enterprise Security Architecture;
 
 If you want you can visit us at [ATHSec](https://athsec.co/)
 
@@ -12,10 +17,10 @@ If you want you can visit us at [ATHSec](https://athsec.co/)
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
 
 - 🌎 I'm from Mozambique
-- 👨🏻‍💻 Love programming, Design, Hacking, InfoSec
+- 👨🏻‍💻 Love programming, Design, Strategic, InfoSec
 - 🧠 I like to learn something new
 - 💭 I dream of going to venus
-- 📧 Reach me via [Linkedin](https://linkedin.com/in/athsecacademy)
+- 📧 Reach me via [Linkedin](https://linkedin.com/in/arlindo0x73)
 
 <br>
 <br>
@@ -23,9 +28,9 @@ If you want you can visit us at [ATHSec](https://athsec.co/)
 ## 👨🏻‍💻 Network
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/athsec)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SwagneyCod3)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SwagneyCod3)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SwagneyCod3)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlindo0x73)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arlindo0x73)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arlindo0x73)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SwagneyCod3)
 
 
