@@ -6,7 +6,7 @@ He has also trained thousands of students in various areas of Cybersecurity in E
 He having its Projects Recognized by the largest Mozambican and International companies and its experience includes but is not limited to: 
 Multi-Cloud Security, DevSecOps, Management of IT Security Services, Designing and Managing Security Operations Centers and Incident Response Teams as part of Managed Security Services provided by ATHSec, Technology Assessment and Consulting Services, IT Audit and IT Risk Management, Security Governance, Audit and Risk Consulting, Design and Implementation of Enterprise Security Architecture;
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=732982" style='border:none;'></iframe>
+custom-display-iframe(link="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=732982")
 
 ## 👨🏻‍💻 About me
 
