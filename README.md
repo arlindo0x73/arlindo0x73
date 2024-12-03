@@ -12,7 +12,6 @@ Multi-Cloud Security, DevSecOps, Management of IT Security Services, Designing a
 
 <br>
 
-<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right"> [![Check out arlindo0x73's profile on stardev.io](https://stardev.io/developers/arlindo0x73/badge/languages/global.svg)](https://stardev.io/developers/arlindo0x73)
 
 - 🌎 I'm from Mozambique
 - 👨🏻‍💻 Love programming, Design, Strategic, InfoSec
