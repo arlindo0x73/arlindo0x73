@@ -24,8 +24,7 @@ Multi-Cloud Security, DevSecOps, Management of IT Security Services, Designing a
 
 
 ## :wrench: Gaming
-
-[![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
 ## 👨🏻‍💻 Network
 
