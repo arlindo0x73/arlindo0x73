@@ -22,6 +22,11 @@ Multi-Cloud Security, DevSecOps, Management of IT Security Services, Designing a
 <br>
 <br>
 
+
+## :wrench: Gaming
+
+[![Xbox](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/athsec)
+
 ## 👨🏻‍💻 Network
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/athsec)
