@@ -1,3 +1,7 @@
+```shell
+$ echo "Hello World!" > README.md
+```
+
 # 🖖 Hey! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=swagneycod3&style=flat-square&color=blueviolet">
 Arlindo Cossa Junior is a young Mozambican Information Security Leader. He has made significant contributions to the promotion and development of cybersecurity in Mozambique through his work as an international consultant, leader and strategist, and founder of one of the largest cybersecurity companies in Mozambique. 
 
