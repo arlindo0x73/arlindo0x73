@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 320" width="880" height="320" role="img" aria-label="Arlindo Cossa Júnior — Principal Cyber Risk Strategist and Security Advisor">
+  <defs>
+    <pattern id="hg" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#1A1A26" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="vign" cx="80%" cy="55%" r="70%">
+      <stop offset="0%" stop-color="#2A1A48" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#0E0E14" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweepG" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A268F8" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#A268F8" stop-opacity=".55"/>
+    </linearGradient>
+    <linearGradient id="nameG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#D9C4FF"/>
+    </linearGradient>
+    <clipPath id="typeClip">
+      <rect x="40" y="244" width="432" height="24">
+        <animate attributeName="width" values="0;432;432;0" keyTimes="0;0.45;0.9;1" dur="7s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="hf"><rect x="1" y="1" width="878" height="318" rx="16"/></clipPath>
+    <style>
+      .m{font-family:Consolas,'JetBrains Mono','Fira Code',Menlo,monospace}
+      .bar{fill:#5E5E78;font-size:11px}
+      .kick{fill:#A268F8;font-size:12px;font-weight:700;letter-spacing:2.5px}
+      .name{fill:url(#nameG);font-size:46px;font-weight:800;letter-spacing:1px}
+      .role{fill:#9A9AB2;font-size:12px}
+      .sep{fill:#A268F8}
+      .cmd{fill:#E6E6F0;font-size:14px}
+      .rl{fill:#8B8BA3;font-size:10px;letter-spacing:1px}
+      .blink{animation:b 1s steps(1) infinite}
+      @keyframes b{50%{opacity:0}}
+      .ping{animation:pg 2.4s ease-out infinite;transform-box:fill-box;transform-origin:center}
+      .p2{animation-delay:.6s}.p3{animation-delay:1.2s}.p4{animation-delay:1.8s}
+      @keyframes pg{0%{transform:scale(.6);opacity:1}100%{transform:scale(3.2);opacity:0}}
+      .in{animation:in .9s ease-out both}
+      .i2{animation-delay:.25s}.i3{animation-delay:.5s}
+      @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+    </style>
+  </defs>
+
+  <g clip-path="url(#hf)">
+    <rect width="880" height="320" fill="#0E0E14"/>
+    <rect width="880" height="320" fill="url(#hg)"/>
+    <rect width="880" height="320" fill="url(#vign)"/>
+  </g>
+  <rect x="1" y="1" width="878" height="318" rx="16" fill="none" stroke="#2A2A3A" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <path d="M1,32 V17 Q1,1 17,1 H863 Q879,1 879,17 V32 Z" fill="#14141D"/>
+  <line x1="1" y1="32" x2="879" y2="32" stroke="#2A2A3A"/>
+  <circle cx="22" cy="17" r="5" fill="#3A3A4E"/><circle cx="40" cy="17" r="5" fill="#3A3A4E"/><circle cx="58" cy="17" r="5" fill="#A268F8"/>
+  <text x="440" y="21" text-anchor="middle" class="m bar">aizen@orbit: ~/profile — session: secure</text>
+
+  <!-- identity -->
+  <g class="m">
+    <text x="40" y="84" class="kick in">PRINCIPAL CYBER RISK STRATEGIST · SECURITY ADVISOR</text>
+    <text x="38" y="140" class="name in i2">ARLINDO</text>
+    <text x="38" y="190" class="name in i2">COSSA JÚNIOR</text>
+    <text x="40" y="222" class="role in i3">InfoSec Officer <tspan class="sep">/</tspan> Security Manager <tspan class="sep">/</tspan> Lead Consultant <tspan class="sep">/</tspan> Security Architect</text>
+
+    <text x="40" y="261" class="cmd" fill="#A268F8">❯</text>
+    <g clip-path="url(#typeClip)">
+      <text x="58" y="261" class="cmd">translate --from cyber-risk --to board-decisions</text>
+    </g>
+    <rect x="481" y="248" width="9" height="17" fill="#A268F8" class="blink">
+      <animate attributeName="x" values="58;481;481;58" keyTimes="0;0.45;0.9;1" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <text x="40" y="296" class="rl">ISO 27001 · SOC 2 · NIST · ISA/IEC 62443 · OT/ICS · MULTI-CLOUD</text>
+  </g>
+
+  <!-- radar -->
+  <g transform="translate(748,168)">
+    <circle r="104" fill="#0E0E14" fill-opacity=".6" stroke="#2E2442" stroke-width="1.2"/>
+    <circle r="70" fill="none" stroke="#2E2442"/>
+    <circle r="36" fill="none" stroke="#2E2442"/>
+    <line x1="-104" y1="0" x2="104" y2="0" stroke="#22222F"/>
+    <line x1="0" y1="-104" x2="0" y2="104" stroke="#22222F"/>
+    <g>
+      <path d="M0,0 L104,0 A104,104 0 0,0 73.5,-73.5 Z" fill="url(#sweepG)"/>
+      <line x1="0" y1="0" x2="104" y2="0" stroke="#A268F8" stroke-width="1.5"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite"/>
+    </g>
+    <circle r="3.5" fill="#FFFFFF"/>
+
+    <g class="m">
+      <circle cx="-48" cy="-56" r="3.5" fill="#C9A6FF"/><circle cx="-48" cy="-56" r="3.5" fill="none" stroke="#A268F8" class="ping"/>
+      <text x="-40" y="-60" class="rl">RISK</text>
+      <circle cx="58" cy="-30" r="3.5" fill="#C9A6FF"/><circle cx="58" cy="-30" r="3.5" fill="none" stroke="#A268F8" class="ping p2"/>
+      <text x="38" y="-40" class="rl">OT/ICS</text>
+      <circle cx="40" cy="62" r="3.5" fill="#C9A6FF"/><circle cx="40" cy="62" r="3.5" fill="none" stroke="#A268F8" class="ping p3"/>
+      <text x="22" y="82" class="rl">CLOUD</text>
+      <circle cx="-62" cy="38" r="3.5" fill="#C9A6FF"/><circle cx="-62" cy="38" r="3.5" fill="none" stroke="#A268F8" class="ping p4"/>
+      <text x="-90" y="58" class="rl">GRC</text>
+    </g>
+  </g>
+  <text x="748" y="300" text-anchor="middle" class="m rl">25.97°S 32.57°E · MAPUTO</text>
+</svg>

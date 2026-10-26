@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 230" width="880" height="230" role="img" aria-label="Security is not just about defending systems. It's about protecting the decisions, operations and trust that depend on them. — Arlindo Cossa Júnior">
+  <defs>
+    <pattern id="fg" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#1A1A26" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="fglow" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#2A1A48" stop-opacity=".6"/>
+      <stop offset="100%" stop-color="#0E0E14" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" x2="1">
+      <stop offset="0%" stop-color="#A268F8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A268F8"/>
+      <stop offset="100%" stop-color="#A268F8" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="ff"><rect x="1" y="1" width="878" height="228" rx="16"/></clipPath>
+    <style>
+      .m{font-family:Consolas,'JetBrains Mono','Fira Code',Menlo,monospace}
+      .q1{fill:#FFFFFF;font-size:17px;font-weight:700}
+      .q2{fill:#C9A6FF;font-size:14px}
+      .sig{fill:#8B8BA3;font-size:11px;letter-spacing:2.5px}
+      .st{fill:#5E5E78;font-size:10px;letter-spacing:1.2px}
+      .draw{stroke-dasharray:420;stroke-dashoffset:420;animation:d 2.2s .4s ease-out forwards}
+      @keyframes d{to{stroke-dashoffset:0}}
+      .spin{animation:sp 12s linear infinite;transform-origin:440px 40px}
+      @keyframes sp{to{transform:rotate(360deg)}}
+      .live{animation:lv 1.8s ease-in-out infinite}
+      @keyframes lv{50%{opacity:.25}}
+      .fade{animation:fd 1.2s ease-out both}
+      .f2{animation-delay:.35s}.f3{animation-delay:1.6s}
+      @keyframes fd{from{opacity:0}to{opacity:1}}
+    </style>
+  </defs>
+
+  <g clip-path="url(#ff)">
+    <rect width="880" height="230" fill="#0E0E14"/>
+    <rect width="880" height="230" fill="url(#fg)"/>
+    <rect width="880" height="230" fill="url(#fglow)"/>
+  </g>
+  <rect x="1" y="1" width="878" height="228" rx="16" fill="none" stroke="#2A2A3A" stroke-width="1.5"/>
+
+  <!-- emblem -->
+  <circle cx="440" cy="40" r="5" fill="#A268F8"/>
+  <g class="spin" fill="none" stroke="#5E3F96" stroke-width="1.1">
+    <ellipse cx="440" cy="40" rx="18" ry="6.5"/>
+    <ellipse cx="440" cy="40" rx="18" ry="6.5" transform="rotate(60 440 40)"/>
+    <ellipse cx="440" cy="40" rx="18" ry="6.5" transform="rotate(120 440 40)"/>
+  </g>
+
+  <g class="m" text-anchor="middle">
+    <text x="440" y="92" class="q1 fade">Security is not just about defending systems.</text>
+    <text x="440" y="120" class="q2 fade f2">It’s about protecting the decisions, operations and trust that depend on them.</text>
+  </g>
+
+  <line x1="230" y1="142" x2="650" y2="142" stroke="url(#rule)" stroke-width="1.2" class="draw"/>
+
+  <text x="440" y="166" text-anchor="middle" class="m sig fade f3">— ARLINDO COSSA JÚNIOR</text>
+
+  <!-- status bar -->
+  <path d="M1,198 H879 V213 Q879,229 863,229 H17 Q1,229 1,213 Z" fill="#14141D"/>
+  <line x1="1" y1="198" x2="879" y2="198" stroke="#2A2A3A"/>
+  <circle cx="26" cy="214" r="3.5" fill="#A268F8" class="live"/>
+  <text x="38" y="218" class="m st">SESSION SECURE</text>
+  <text x="440" y="218" text-anchor="middle" class="m st">ORBIT · RISK-DRIVEN BY DESIGN</text>
+  <text x="856" y="218" text-anchor="end" class="m st">MAPUTO · MOZAMBIQUE</text>
+</svg>
