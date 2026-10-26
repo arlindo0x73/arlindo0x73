@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 150" width="880" height="150" role="img" aria-label="73 Purple Planet · @arlindo0x73 — ORBIT Security Model · OSM-CMM">
+  <defs>
+    <pattern id="tg" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#1A1A26" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="tglow" cx="8%" cy="62%" r="40%">
+      <stop offset="0%" stop-color="#2A1A48" stop-opacity=".7"/>
+      <stop offset="100%" stop-color="#0E0E14" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="planet" cx="38%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#E4D4FD"/>
+      <stop offset="45%" stop-color="#A268F8"/>
+      <stop offset="100%" stop-color="#3B2470"/>
+    </radialGradient>
+    <clipPath id="tf"><rect x="1" y="1" width="878" height="148" rx="16"/></clipPath>
+    <style>
+      .m{font-family:Consolas,'JetBrains Mono','Fira Code',Menlo,monospace}
+      .bar{fill:#5E5E78;font-size:11px}
+      .kick{fill:#A268F8;font-size:12px;font-weight:700;letter-spacing:2.5px}
+      .h{fill:#5E5E78}
+      .ttl{fill:#FFFFFF;font-size:25px;font-weight:800;letter-spacing:2.5px}
+      .sub{fill:#C9A6FF}
+      .spin{animation:sp 14s linear infinite;transform-origin:72px 96px}
+      @keyframes sp{to{transform:rotate(360deg)}}
+      .in{animation:in .9s ease-out both}.i2{animation-delay:.25s}
+      @keyframes in{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}
+    </style>
+  </defs>
+
+  <g clip-path="url(#tf)">
+    <rect width="880" height="150" fill="#0E0E14"/>
+    <rect width="880" height="150" fill="url(#tg)"/>
+    <rect width="880" height="150" fill="url(#tglow)"/>
+  </g>
+  <rect x="1" y="1" width="878" height="148" rx="16" fill="none" stroke="#2A2A3A" stroke-width="1.5"/>
+  <path d="M1,32 V17 Q1,1 17,1 H863 Q879,1 879,17 V32 Z" fill="#14141D"/>
+  <line x1="1" y1="32" x2="879" y2="32" stroke="#2A2A3A"/>
+  <circle cx="22" cy="17" r="5" fill="#3A3A4E"/><circle cx="40" cy="17" r="5" fill="#3A3A4E"/><circle cx="58" cy="17" r="5" fill="#A268F8"/>
+  <text x="440" y="21" text-anchor="middle" class="m bar">orbit://osm-cmm — governance · maturity · evidence</text>
+
+  <!-- purple planet -->
+  <circle cx="72" cy="96" r="13" fill="url(#planet)"/>
+  <g class="spin" fill="none" stroke-width="1.2">
+    <ellipse cx="72" cy="96" rx="34" ry="11" stroke="#5E3F96"/>
+    <ellipse cx="72" cy="96" rx="34" ry="11" stroke="#5E3F96" transform="rotate(60 72 96)"/>
+    <ellipse cx="72" cy="96" rx="34" ry="11" stroke="#5E3F96" transform="rotate(120 72 96)"/>
+    <circle cx="106" cy="96" r="3" fill="#FFFFFF" stroke="none"/>
+  </g>
+
+  <g class="m">
+    <text x="128" y="84" class="kick in">73 PURPLE PLANET <tspan class="h">·</tspan> @arlindo0x73</text>
+    <text x="126" y="118" class="ttl in i2">ORBIT SECURITY MODEL <tspan class="sub">· OSM-CMM</tspan></text>
+  </g>
+</svg>
