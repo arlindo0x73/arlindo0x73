@@ -83,7 +83,7 @@
     <text x="580" y="210" text-anchor="middle" class="a" font-size="18" font-weight="700">×</text>
 
     <!-- V -->
-    <rect x="590" y="134" width="260" height="108" rx="10" fill="#14141D" stroke="#F06292" stroke-opacity=".55" stroke-width="1.2"/>
+    <rect x="590" y="134" width="260" height="138" rx="10" fill="#14141D" stroke="#F06292" stroke-opacity=".55" stroke-width="1.2"/>
     <text x="608" y="174" class="L">VALIDATION</text>
     <text x="608" y="200" class="Q">Is it proven to work?</text>
     <text x="608" y="218" class="D">testing · telemetry · evidence</text>
